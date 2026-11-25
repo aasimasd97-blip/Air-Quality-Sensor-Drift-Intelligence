@@ -1,0 +1,21 @@
+# Core Data Science and Scientific Computing
+numpy>=1.23.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Visualization and Dashboard
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+streamlit>=1.28.0
+
+# PDF & Document Generation
+reportlab>=4.0.0
+
+# Quality Assurance & Testing
+pytest>=7.4.0
+
+# Parquet storage support
+pyarrow>=12.0.0

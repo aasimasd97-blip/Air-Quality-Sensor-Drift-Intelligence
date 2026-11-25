@@ -1,0 +1,17 @@
+Sensor_ID,Sensor_Num,Sensor_Type,Health_Score,Category,Status_Color,Drift_Component,Anomaly_Component,Stability_Component,Degradation_Component,Recommendation
+Sensor 1,1,TGS2600 (General Air Quality / VOCs),55.1,Warning,#fd7e14,31.8,75.0,73.0,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 2,2,TGS2602 (VOCs / Odor / Ammonia),58.2,Warning,#fd7e14,32.1,75.0,88.0,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 3,3,TGS2610 (LP Gas / Combustible),48.5,Warning,#fd7e14,29.9,75.0,44.1,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 4,4,TGS2620 (Solvent Vapors / Alcohol),43.8,Warning,#fd7e14,29.5,75.0,21.5,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 5,5,TGS2600 (General Air Quality / VOCs),45.0,Warning,#fd7e14,25.4,75.0,35.2,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 6,6,TGS2602 (VOCs / Odor / Ammonia),39.6,Critical,#dc3545,28.2,75.0,2.9,60.0,Action Required. Severe drift or responsiveness distortion detected; perform full baseline resistance recalibration and hardware check.
+Sensor 7,7,TGS2610 (LP Gas / Combustible),44.9,Warning,#fd7e14,27.4,75.0,31.0,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 8,8,TGS2620 (Solvent Vapors / Alcohol),43.7,Warning,#fd7e14,27.0,75.0,25.8,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 9,9,TGS2600 (General Air Quality / VOCs),59.5,Warning,#fd7e14,33.3,75.0,92.2,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 10,10,TGS2602 (VOCs / Odor / Ammonia),59.1,Warning,#fd7e14,33.3,75.0,89.9,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 11,11,TGS2610 (LP Gas / Combustible),56.5,Warning,#fd7e14,29.8,75.0,84.3,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 12,12,TGS2620 (Solvent Vapors / Alcohol),55.4,Warning,#fd7e14,29.0,75.0,80.4,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 13,13,TGS2600 (General Air Quality / VOCs),49.7,Warning,#fd7e14,26.4,75.0,57.0,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 14,14,TGS2602 (VOCs / Odor / Ammonia),50.5,Warning,#fd7e14,27.5,75.0,58.5,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 15,15,TGS2610 (LP Gas / Combustible),54.4,Warning,#fd7e14,27.9,75.0,77.3,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
+Sensor 16,16,TGS2620 (Solvent Vapors / Alcohol),53.5,Warning,#fd7e14,27.4,75.0,74.1,60.0,Calibration Advised. Notable baseline drift or variance expansion; cross-validate with reference gas.
